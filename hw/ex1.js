@@ -1,5 +1,3 @@
-const num = 21; //1
-const num2 = 6; //2
 const num3 = 30; //3
 
 Number(num % 2 === 0 || num % 3 === 0 || num % 5 === 0) &&
